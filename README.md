@@ -1,0 +1,3 @@
+- Hi, I’m @Procrastinatah
+- I wan't to be standing on my own and learn hella nice stuff to become a good Developer
+- I’m currently learning Unity, Ionic Vue (so mostly C# and JS)
